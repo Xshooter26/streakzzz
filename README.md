@@ -21,8 +21,13 @@ State Management: React Hooks
 
 Styling: Tailwind CSS
 
-📸 Screenshots
-Dark Mode	Light Mode
+## 📸 Screenshots  
+### 🌙 Dark Mode  
+![Dark Mode](/public/screeshot-dark.png)  
+
+### ☀️ Light Mode  
+![Light Mode](/public//screenshot-light.png)  
+
 💻 Installation & Running Locally
 bash
 Copy
