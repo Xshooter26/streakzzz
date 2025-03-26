@@ -1,4 +1,5 @@
 # Streakzzz - Habit Tracker ⏳🔥
+# Live : https://streakzzz.vercel.app/
 
 A modern habit tracking app built with Next.js, Tailwind CSS, and TypeScript. Track your habits, maintain streaks, and stay motivated!
 
