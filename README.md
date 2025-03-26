@@ -23,10 +23,12 @@ Styling: Tailwind CSS
 
 ## 📸 Screenshots  
 ### 🌙 Dark Mode  
-![Dark Mode](/public/screeshot-dark.png)  
+![Dark Mode]![screeshot-dark](https://github.com/user-attachments/assets/04017b88-9e58-47f8-9445-abf41d834149)
+
 
 ### ☀️ Light Mode  
-![Light Mode](/public//screenshot-light.png)  
+![Light Mode]![screenshot-light](https://github.com/user-attachments/assets/8d8c7b60-c5f8-45e1-b98a-7c217052d88b)
+ 
 
 💻 Installation & Running Locally
 bash
