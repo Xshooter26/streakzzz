@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Streak Master",
+  title: "Streakzzz",
   description: "Track your habits and build streaks!",
 };
 
