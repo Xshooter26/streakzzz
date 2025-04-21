@@ -1,10 +1,59 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+=======
+# Streakzzz - Habit Tracker ⏳🔥
+# Live : https://streakzzz.vercel.app/
+>>>>>>> 8f000b62da18f724c4f62957299aa527e9651400
 
 ## Getting Started
 
 First, run the development server:
 
+<<<<<<< HEAD
 ```bash
+=======
+✨ Features
+✅ Add new habits
+
+🔥 Tap to increase streak
+
+🌙 Light & Dark mode
+
+📈 Tracks longest streak
+
+🎨 Beautiful UI with smooth animations
+
+🚀 Tech Stack
+Frontend: Next.js, TypeScript, Tailwind CSS
+
+State Management: React Hooks
+
+Styling: Tailwind CSS
+
+## 📸 Screenshots  
+### 🌙 Dark Mode  
+![Dark Mode]![screeshot-dark](https://github.com/user-attachments/assets/04017b88-9e58-47f8-9445-abf41d834149)
+
+
+### ☀️ Light Mode  
+![Light Mode]![screenshot-light](https://github.com/user-attachments/assets/8d8c7b60-c5f8-45e1-b98a-7c217052d88b)
+ 
+
+💻 Installation & Running Locally
+bash
+Copy
+Edit
+# Clone the repository
+git clone https://github.com/Xshooter26/streakzzz.git
+
+# Navigate to project folder
+cd streakzzz
+
+# Install dependencies
+npm install
+
+# Run the app
+>>>>>>> 8f000b62da18f724c4f62957299aa527e9651400
 npm run dev
 # or
 yarn dev
