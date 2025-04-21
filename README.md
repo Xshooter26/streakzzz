@@ -24,11 +24,10 @@ Styling: Tailwind CSS
 
 ## 📸 Screenshots  
 ### 🌙 Dark Mode  
-![Dark Mode]![screeshot-dark](screenshots/screenshot-dark.png)
-
+![Dark Mode](screenshots/screenshot-dark.png)
 
 ### ☀️ Light Mode  
-![Light Mode]![screenshot-light](screenshots/screenshot-light.png)
+![Light Mode](screenshots/screenshot-light.png)
  
 
 💻 Installation & Running Locally
